@@ -32,3 +32,5 @@ password
 Machine Size
 
 Virtual network - VNETSTUDENT01
+[
+**https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/active-directory-new-domain/**](https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/active-directory-new-domain/)
