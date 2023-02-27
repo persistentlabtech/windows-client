@@ -10,11 +10,17 @@ https://portal.azure.com
 Are all of you know to create machines?
 
 Subscription
+
 Region
+
 Operating System -
+
 Virtual Machine name
+
 admin user name
+
 password
+
 Machine Size
 
 Virtual network - VNETSTUDENT01
