@@ -34,3 +34,20 @@ Machine Size
 Virtual network - VNETSTUDENT01
 [
 **https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/active-directory-new-domain/**](https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/active-directory-new-domain/)
+
+
+Create Windows10 and Windows 11 machiones and join to domain.. Ensure all machine use same VNET..
+
+Check the login to windows 10 and windows 11 y using logging with Domain Account - Contoso\studentxx -- password..
+
+Logon to AD Machine with  Contoso\studentxx -- password.. and then to Active Directory Users and Computers..
+
+Create user account in ADUC anexample admin1 and admin2 and give passwords.. Add the users to Domain Admins and Eneterprise Admins Group
+
+Create user account in ADUC anexample n user1 and user1 and give passwords..
+
+Test login to windows10 and windows11 using then new accounts created..
+
+
+
+
