@@ -48,6 +48,8 @@ Create user account in ADUC anexample n user1 and user1 and give passwords..
 
 Test login to windows10 and windows11 using then new accounts created..
 
+SERVER -use AD Machine.
+
 
 
 
