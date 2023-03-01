@@ -52,4 +52,36 @@ SERVER -use AD Machine.
 
 
 
+Task 1 -> Use your own la machines ..
+
+Disable control panel for Windows 10
+
+Group Policy --> Disable control panel
+
+Windows 10 machine - see the effect of policy
+
+AD
+WINDOWS 10
+
+AD --> Group Policy -->
+
+Create OU - Windows 11
+
+Create OU - Windows 10 --> create policy --> disable control panel - one setting.. apply this to Windows 10.
+
+Windows 10 - gpupdate /force
+
+
+Task 2 - labuser account - create windows 2022 server .. install hyper-v.
+
+Create a Window 10 OS Machine..
+
+ https://www.microsoft.com/en-us/software-download/windows10
+
+Upgrade Windows 10 to Windows 11 - same hyper-v client..
+
+
+
+
+
 
