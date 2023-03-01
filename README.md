@@ -44,7 +44,7 @@ Logon to AD Machine with  Contoso\studentxx -- password.. and then to Active Dir
 
 Create user account in ADUC anexample admin1 and admin2 and give passwords.. Add the users to Domain Admins and Eneterprise Admins Group
 
-Create user account in ADUC anexample n user1 and user1 and give passwords..
+Create user account in ADUC an example  - user1 and user2 and give passwords..
 
 Test login to windows10 and windows11 using then new accounts created..
 
