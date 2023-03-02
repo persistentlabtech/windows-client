@@ -12,6 +12,28 @@ https://www.dropbox.com/scl/fo/uxbo7bycql61boamyetzp/h?dl=0&rlkey=sfmhqqpcighygf
 
 5. https://learn.microsoft.com/en-us/training/paths/configure-storage-windows-clients/
 
+https://learn.microsoft.com/en-us/training/paths/configure-data-access-usage/
+
+https://learn.microsoft.com/en-us/training/paths/manage-apps-windows-updates/
+
+https://learn.microsoft.com/en-us/training/paths/configure-threat-protection/
+
+https://learn.microsoft.com/en-us/training/paths/support-windows-client-environment/https://learn.microsoft.com/en-us/training/paths/troubleshoot-windows-client-operating-system-apps/
+
+https://learn.microsoft.com/en-us/training/paths/troubleshoot-hardware-drivers/
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://portal.azure.com
 
 
