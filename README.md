@@ -80,6 +80,8 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise
 
 Upgrade Windows 10 to Windows 11 - same hyper-v client..
 
+https://www.microsoft.com/en-in/evalcenter/evaluate-windows-11-enterprise
+
 
 
 
