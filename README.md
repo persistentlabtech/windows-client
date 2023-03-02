@@ -84,6 +84,14 @@ https://www.microsoft.com/en-in/evalcenter/evaluate-windows-11-enterprise
 
 
 
+Lab files
 
+https://vcouncil-my.sharepoint.com/:f:/g/personal/trainer_dxctraining_tech/ErK4BSBdszNAoIHeAz1mGboBOEujq_fkVNrwXX8vAsRmSw?e=tu66Vh
+
+https://vcouncil-my.sharepoint.com/:f:/g/personal/trainer_dxctraining_tech/EhPt_Iip9QdGvPJFWxBQwTgBakk3g8joXUd1WNkjotVmAA?e=i8PkG1
+
+https://vcouncil-my.sharepoint.com/:f:/g/personal/trainer_dxctraining_tech/EmYG8xvIAZJLpto0APXO7OUB_gNvCESlgbY-5kS4UFp89w?e=6lxHJ2
+
+https://vcouncil-my.sharepoint.com/:f:/g/personal/trainer_dxctraining_tech/EoRAp2TuxWJAuqZxZDKhYsgBuNZOGWLPYwe3TNftmxDAkw?e=VJ5Reg
 
 
