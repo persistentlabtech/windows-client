@@ -150,6 +150,32 @@ As part of the Desktop Administration team at Contoso, you have been tasked with
 
 7. Right-click the Start button, and then select **Computer Management**.
 
+
+
+
+
+
+advm - install Windows Assessment and Deployment Kit for windows 11 
+
+create a provisioning package.. location..
+
+A device name in the format of SEA-CL%RAND:2%, which specifies SEA-CL with two random numbers.
+Join the device to the Contoso.com Active Directory domain.
+Create a local administrator account with the name LocalAdmin with the password of Pa55w.rd.
+Install two applications named PowerToys and Power BI Desktop to the device.
+
+-Path to this software -- link..
+
+Azure create a new windows 11 vm  in same network  -- not joined to domain..
+
+run the provisoning package.. 
+
+
+
+
+
+
+
 8. In Computer Management, expand **Local Users and Groups**, and then select **Users**. 
 
 9. Verify that the **LocalAdmin** user account is configured on the device.
