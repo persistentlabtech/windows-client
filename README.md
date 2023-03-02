@@ -76,7 +76,7 @@ Task 2 - labuser account - create windows 2022 server .. install hyper-v.
 
 Create a Window 10 OS Machine..
 
- https://www.microsoft.com/en-us/software-download/windows10
+https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise
 
 Upgrade Windows 10 to Windows 11 - same hyper-v client..
 
