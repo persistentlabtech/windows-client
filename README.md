@@ -117,3 +117,8 @@ https://vcouncil-my.sharepoint.com/:f:/g/personal/trainer_dxctraining_tech/EmYG8
 https://vcouncil-my.sharepoint.com/:f:/g/personal/trainer_dxctraining_tech/EoRAp2TuxWJAuqZxZDKhYsgBuNZOGWLPYwe3TNftmxDAkw?e=VJ5Reg
 
 
+Trouleshooting tools
+
+https://learn.microsoft.com/en-us/sysinternals/
+
+https://techlog360.com/all-windows-cmd-commands/
